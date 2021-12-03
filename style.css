@@ -1,0 +1,30 @@
+:root{
+    --brand-color:orange;
+    --main-color:#3cd;
+    --wain-width:320px;
+    --main-margin:400px;
+    --color: #333;
+
+}
+
+
+
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color:var(--main-color);
+
+}
+div{
+    background-color: var(--brand-color);
+    padding: 15px;
+   
+}
+h1{
+    color: var(--color);
+    text-align: center;
+}
+p{
+    text-align: center;
+}
